@@ -1,0 +1,28 @@
+h2{
+    background-color: chartreuse;
+}
+p{
+    color: blueviolet;
+}
+
+
+img{
+height: 500px;
+width: 700px;
+object-fit: cover;
+border-radius: 200px 120px 80px 50px;
+border:20px dotted;color: brown;
+margin: auto;
+display: block;
+}
+.about{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    background-color: crimson;
+    margin: 100px;
+    padding: 100px;
+}
+h4{
+    background-color: chocolate;
+}
